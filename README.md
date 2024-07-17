@@ -29,3 +29,4 @@ Replace 'YOUR_TELEGRAM_BOT_API_TOKEN' with your actual Telegram bot API token.
 Replace 'https://yourdomain.com/bot.php' with the actual public URL of your bot.php file.
 Upload set_webhook.php to your server and access it via your browser (e.g., https://yourdomain.com/set_webhook.php). This will set the webhook for your bot.
 # Instructions for Setup and Deployment
+Contact @whitecent or email inndeveloper247@gmail.com
